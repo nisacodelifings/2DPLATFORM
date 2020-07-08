@@ -1,4 +1,5 @@
 # 2D Platformer
+By nisapinklava
 
 This demo is a pixel art 2D platformer with graphics and sound.
 
